@@ -1,13 +1,21 @@
-**Hi, I’m Iman 👋**
-_CS student at UCP Faisalabad, building AI-assisted solutions to real-world problems._
+![header](https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=140&section=header&text=Iman%20Zainab&fontSize=40&fontColor=DCC6F0)
 
-**What I’m building**
+**CS student at UCP Faisalabad, building AI-assisted solutions to real-world problems.**
 
-**Ayla** — a desktop companion that helps me through my work day: morning briefing, focus tracking, end-of-day review. The Plus version is deployed and I use it myself. (Electron, TypeScript, Node.js)
+## What I'm building
 
-**IGC Samundri Digital Operations** — a fee and records system for my father’s college, built after working in its accounts office and seeing the Excel-ledger problems up close. Vouchers lock after printing, QR scan logs payments, works offline. (Status: in progress, delivery before Nov 1)
+**Ayla**: a desktop companion that walks me through my work day: morning briefing, focus tracking, end-of-day review. I use it myself.
+![status](https://img.shields.io/badge/Plus%20version-deployed-brightgreen)
 
-**Tools I’ve used:** Node.js, TypeScript, Electron, HTML, CSS, JavaScript
-Right now: building with AI assistance, and learning the fundamentals underneath it, one small exercise a day.
+**IGC Samundri Digital Operations**: a fee and records system for my father's college, built after working in its accounts office and seeing the Excel-ledger problems up close. Vouchers lock after printing, payments are logged manually with an automatic timestamp, and it works offline.
+![status](https://img.shields.io/badge/status-in%20progress-orange)
 
-📍 **Pakistan** · https://www.linkedin.com/in/iman-zainab-75ab01385/
+## Tools I've used
+
+![skills](https://skillicons.dev/icons?i=nodejs,ts,electron,html,css,js)
+
+## Right now
+
+Building with AI assistance, and learning the fundamentals underneath it, one small exercise a day.
+
+📍 Pakistan · [LinkedIn](https://www.linkedin.com/in/iman-zainab-75ab01385/)
