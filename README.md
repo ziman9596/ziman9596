@@ -1,16 +1,13 @@
-## Hi there 👋
+**Hi, I’m Iman 👋**
+_CS student at UCP Faisalabad, building AI-assisted solutions to real-world problems._
 
-<!--
-**ziman9596/ziman9596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What I’m building**
 
-Here are some ideas to get you started:
+**Ayla** — a desktop companion that helps me through my work day: morning briefing, focus tracking, end-of-day review. The Plus version is deployed and I use it myself. (Electron, TypeScript, Node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**IGC Samundri Digital Operations** — a fee and records system for my father’s college, built after working in its accounts office and seeing the Excel-ledger problems up close. Vouchers lock after printing, QR scan logs payments, works offline. (Status: in progress, delivery before Nov 1)
+
+**Tools I’ve used:** Node.js, TypeScript, Electron, HTML, CSS, JavaScript
+Right now: building with AI assistance, and learning the fundamentals underneath it, one small exercise a day.
+
+📍 **Pakistan** · https://www.linkedin.com/in/iman-zainab-75ab01385/
